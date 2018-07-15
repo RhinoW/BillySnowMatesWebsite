@@ -1,3 +1,14 @@
+{{ define "title" }}
+<div class="container">
+  <div class="content-center">
+    <h1 class="title">{{ .Title }}</h1>
+    <div class="text-center">
+      {{with .Params.description }} {{ . | safeHTML }} {{ end }}
+    </div>
+  </div>
+</div>
+{{ end }}
+
 {{ define "body" }}
               
 <!-- Optional Header Image -->
@@ -8,7 +19,7 @@
 </div>
 {{end}}
 
-  {{ with .Title }}<h1>{{ . }}</h1>{{ end }}
+  
    <!-- List pages can get Content and yaml metadata from an _index.md -->
   {{ with .Content }}<div class="article-style" itemprop="articleBody">{{ . }}</div>{{ end }}
 
@@ -20,11 +31,10 @@
                                 <ul class="nav justify-content-center" role="tablist" data-background-color="{{ .Param "tint" | default "orange" }}">
                                     <li class="nav-item">
                                         <a class="nav-link active" href="{{ .RelPermalink }}" role="tab">
-                                        <i class="now-ui-icons files_paper"></i> <strong>{{ .Title }}</strong>
+                                        <i class="now-ui-icons files_paper"></i> &nbsp;<strong>{{ .Title }}</strong>
                                         </a>
                                     </li>
-                                    <a class="nav-link active" href="{{ .RelPermalink }}" role="tab">
-                                    <li class="nav-item"><i class="now-ui-icons ui-1_calendar-60"></i>  {{.Date.Format "2006-01-02" }}
+                                    <a class="nav-link active" href="{{ .RelPermalink }}" role="tab">                                    
                                     </a>
                                     </li> 
                                 </ul>
