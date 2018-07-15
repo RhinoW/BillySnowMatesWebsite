@@ -1,0 +1,97 @@
+baseURL = "https://billysnowmates.netlify.com/"
+languageCode = "en-us"
+title = "Billy Snow Mates"
+theme = "hugo-now-ui"
+
+[params]
+    # TODO - is description used in this?
+    description = "Never Ride Alone!"
+    # These were for ananke theme
+    #facebook = "https://www.facebook.com/groups/Billysnowmates/"
+    #twitter = "https://twitter.com/billymatessnow"
+    #instagram = "https://www.instagram.com/billysnowmates/"
+    #youtube = "https://vimeo.com/billysnowmates"    
+    
+    #background = "/uploads/BillySnowMates-Never-Ride-Alone-1.jpg"    
+    #background = "/uploads/backgrounds/john-price-377101-unsplash.jpg"
+    
+    background = "/uploads/backgrounds/chris-biron-99839-unsplash.jpg?"
+    #background = "/uploads/backgrounds/markus-voetter-520586-unsplash.jpg"
+    #background = "/uploads/backgrounds/sarina-pruschy-591407-unsplash.jpg"
+    
+    tint = "orange" # If change from orange then lose some othter formatting - probably have to muck around with css generators?
+
+[menu]           
+
+    [[menu.footer]]
+        identifier = "facebook"
+        pre = "<i class='fa fa-facebook'></i>"
+        url = "https://www.facebook.com/groups/Billysnowmates/"
+        weight = 20    
+
+    [[menu.footer]]
+        identifier = "vimeo"        
+        pre = "<i class='fa fa-vimeo'></i>"
+        url = "https://vimeo.com/billysnowmates"        
+        weight = 30
+
+    [[menu.footer]]
+        identifier = "instagram"
+        pre = "<i class='fa fa-instagram'></i>"
+        url = "https://www.instagram.com/billysnowmates/"
+        weight = 40
+
+    [[menu.footer]]
+        identifier = "twitter"
+        pre = "<i class='fa fa-twitter'></i>"
+        url = "https://twitter.com/billymatessnow"
+        weight = 50
+
+    [[menu.footer]]
+        identifier = "contact"
+        name = "Contact Us"
+        url = "/contact-us/"
+        weight = 55    
+
+    [[menu.footer]]
+        identifier = "privacy"
+        name = "Privacy"
+        url = "/privacy/"
+        weight = 60
+
+    [[menu.main]]
+        identifier = "about"
+        name = "about"
+        url = "/"
+        weight = 10
+
+    [[menu.main]]
+        identifier = "events"
+        name = "Events"
+        url = "/events/"
+        weight = 20
+
+    [[menu.main]]
+        identifier = "faq"
+        name = "FAQ"
+        url = "/faq/"
+        weight = 20
+        
+    [[menu.main]]
+        identifier = "discounts"
+        name = "Discounts"
+        url = "/discounts/"
+        weight = 40
+        
+    [[menu.main]]
+        identifier = "contact"
+        name = "Contact Us"
+        url = "/contact-us/"
+        weight = 55
+
+    [[menu.main]]
+        identifier = "rules"
+        name = "Rules"
+        url = "/rules/"
+        weight = 60
+    
