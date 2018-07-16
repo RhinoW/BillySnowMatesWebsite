@@ -59,6 +59,12 @@ theme = "hugo-now-ui"
         url = "/privacy/"
         weight = 60
 
+    [[menu.footer]]
+        identifier = "cookies"
+        name = "Cookies"
+        url = "/cookies/"
+        weight = 60
+
     [[menu.main]]
         identifier = "about"
         name = "about"
