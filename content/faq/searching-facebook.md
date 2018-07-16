@@ -1,7 +1,6 @@
 ---
-title: How to Search in a Facebook Group
+title: FAQ - How to Search in a Facebook Group
 date: 2018-07-13 00:31:14 +0000
-
 ---
 So you’ve got a question? Great! But first please take a few minutes as it’s likely the exact same question has been asked before. Maybe a dozen times. If it’s a hot topic, maybe a dozen times in the last week!
 

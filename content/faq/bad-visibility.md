@@ -4,6 +4,7 @@ date: 2018-07-13T01:01:25+01:00
 draft: false
 author: Ryan Wheeler
 ---
+
 Sunny (Bluebird) days are fantastic - but mountains come with weather and sometimes that means you can’t see the contours of the slope easily in “Flat Light” or even much of anything in “Whiteout” conditions.
 
 ## Equipment
