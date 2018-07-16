@@ -10,7 +10,7 @@ If your looking for new mates that love snow sports as much as you, you're in th
 
 We welcome experts to beginners of any age and have over 5000 members.
 
-We have regular meets at all the uk snow and dry slope venues as well as running lots of trips to the mountains to suit all budgets and abilities.
+We have regular meets at all the uk snow and dry slope venues as well as running lots of [trips to the mountains](events/) to suit all budgets and abilities.
 
 <div class="content-center">
     <a href="https://www.facebook.com/groups/Billysnowmates/" target="_blank">
@@ -18,7 +18,7 @@ We have regular meets at all the uk snow and dry slope venues as well as running
     </a>
 </div>
 
-We are a non-profit group that means that all our trips, events and merchandise are run at cost with no one getting a free space, not even the event host. 
+We are a non-profit group that means that all our trips, events and merchandise are run at cost with no one getting a free space, not even the event host. We've also arranged [discounts](discounts/) with some commercial comapnies
 
 > *"Everyone saves or no one saves"*
 
@@ -26,6 +26,6 @@ Some content is kept on this website but most of the 'action' takes place on Fac
 
 [www.facebook.com/groups/Billysnowmates/](https://www.facebook.com/groups/Billysnowmates/)
 
-If you've a questoin please take a minute to [check if its already been answered.](/faq/)
+Our members can help with almost any (snow) question - but please take a minute to [check if its already been answered](/faq/) first.
 
-We work hard to keep the group a friendly and welcoming place and take a hard line with non-sense, spamming and advertising - please read the [club rules](/rules/) on the website or the [Facebook Group description.](https://www.facebook.com/groups/Billysnowmates/about)
+We work hard to keep the group a **friendly and welcoming** place and take a hard line with non-sense, spamming and advertising - please read the [club rules](/rules/) on the website or the [Facebook Group description.](https://www.facebook.com/groups/Billysnowmates/about)
