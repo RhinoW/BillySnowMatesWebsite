@@ -1,6 +1,6 @@
 ---
 headertitle: Who are we?
-description: <b>Billy Snow Mates</b> is a social/sports club thats all about <b>snowboarding and skiing.</b>
+description: <img src="/bsm-68x50.png" style="position:relative; top:-10px; left:-5px;" alt="Billy Snow Mates"/> is a social/sports club thats all about <b>snowboarding and skiing.</b>
 linktitle: "Home"
 date: 2018-07-13T00:36:59+01:00
 draft: false
