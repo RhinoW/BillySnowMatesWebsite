@@ -1,5 +1,5 @@
 ---
-title: "Snowboard Boots"
+title: "FAQ - Snowboard Boots"
 date: 2018-07-13T01:00:43+01:00
 draft: false
 author: Daniel Petford
