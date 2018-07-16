@@ -5,7 +5,7 @@ date: 2018-07-13T04:01:38+01:00
 draft: false
 ---
 
-You can see a summary of the in the in the Group Description (upon joining or top right on Facebook when in the group) [or on this website](/rules) - including **“No Advertising”.**
+You can see a summary of the in the in the Group Description (upon joining or top right on Facebook when in the group) or on this website - including **“No Advertising”.**
 
 <!--more-->
 

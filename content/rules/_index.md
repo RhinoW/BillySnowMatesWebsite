@@ -1,6 +1,6 @@
 ---
 title: "Group Rules"
-description: "With over 5000 members we need some rules to keep the group a friendly and welcoming place."
+description: "With over 5000 members we need some rules to keep the group a **friendly and welcoming** place."
 date: 2018-07-13T04:01:18+01:00
 draft: false
 ---
