@@ -35,7 +35,7 @@ You can see more on
 
 {{< div-center-content >}}
 
-{{< div-row >}}{{< div-card-width-12 "Solo Travellers">}}
+{{< div-row >}}{{< div-card-width-6 "Solo Travellers">}}
 
 Worried that you don't know anyone?
 
@@ -48,7 +48,7 @@ There are no cliques and everyone is friendly and welcoming. We put you in accom
 There is plenty of chance to get to know people before hand either on-online or at one of the dome meetups and there are always people to ride with at your riding level and style.
 
 Its how Billy Snow Mates started after all - take the plunge!
-{{< /div-card-width-12 >}}
+{{< /div-card-width-6 >}}
 
 {{< /div-row >}}
 
