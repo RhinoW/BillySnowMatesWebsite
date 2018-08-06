@@ -10,3 +10,4 @@ fields:
     required: true
 pages:
 - content/privacy.md
+- content/faq/faq-avalanche-airbags.md
