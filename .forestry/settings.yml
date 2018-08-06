@@ -4,18 +4,26 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- path: content/faq
+- type: directory
+  path: content/faq
   label: Faq
   create: all
-- path: content/rules
+  match: "**/*"
+- type: directory
+  path: content/rules
   label: Rules
   create: all
-- path: content
+  match: "**/*"
+- type: directory
+  path: content
   label: Pages
   create: all
-- path: content/posts
+  match: "*"
+- type: directory
+  path: content/posts
   label: Posts
   create: all
+  match: "**/*"
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
