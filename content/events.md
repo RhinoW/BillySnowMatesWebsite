@@ -35,7 +35,7 @@ You can see more on
 
 {{< div-center-content >}}
 
-{{< div-row >}}{{< div-card-width-6 "Solo Travellers">}}
+{{< div-row >}}{{< div-card-width-12 "Solo Travellers">}}
 
 Worried that you don't know anyone?
 
@@ -48,7 +48,7 @@ There are no cliques and everyone is friendly and welcoming. We put you in accom
 There is plenty of chance to get to know people before hand either on-online or at one of the dome meetups and there are always people to ride with at your riding level and style.
 
 Its how Billy Snow Mates started after all - take the plunge!
-{{< /div-card-width-6 >}}
+{{< /div-card-width-12 >}}
 
 {{< /div-row >}}
 
@@ -56,9 +56,9 @@ Its how Billy Snow Mates started after all - take the plunge!
 
 {{< div-card-width-6 "Mark Broxton">}}
 
-> Everyone is very inclusive and there's people of all abilities and riding styles from first to last lift or ridding from one bar to the next, always someone that you click with on these trips.
->
-> I felt so nervous before my first trip as I was brand new to snowboarding and didn't know anyone, nearly 4 years later and I've met some amazing people that I'm privileged to call friends.
+*Everyone is very inclusive and there's people of all abilities and riding styles from first to last lift or ridding from one bar to the next, always someone that you click with on these trips.*
+
+*I felt so nervous before my first trip as I was brand new to snowboarding and didn't know anyone, nearly 4 years later and I've met some amazing people that I'm privileged to call friends.*
 
 {{< /div-card-width-6 >}}
 {{< /div-row >}}
@@ -68,12 +68,17 @@ Its how Billy Snow Mates started after all - take the plunge!
 {{< div-card-width-6 "Skill Level & Interest">}}
 
 **Not a park-rat?** No problem - some people like to cruise.
+
 **Like your beer?** No problem - some people use their ski/snowboard to commute from one bar to the next, just warming up for the Apres.
+
 **Like to charge from first lift to last** - yup we've got that covered too.
+
 {{< /div-card-width-6 >}}
 
-{{< div-card-width-6 "Can't afford it or don't link cheap and cheerful">}}
-Sometimes we have a range of accommodation options - Cheap Billies and Posh Billies - but if you don't like the look of the accommodation we've organized you're welcome of course to book your own for the same time and come hang out with us.
+{{< div-card-width-6 "Don't like cheap and cheerful">}}
+Sometimes we have a range of accommodation options - Cheap Billies and Posh Billies!
+
+If you don't like the look of the accommodation we've organized you're welcome of course to book your own for the same time and come hang out with us.
 {{< /div-card-width-6 >}}
 
 {{< /div-row >}}
@@ -81,13 +86,17 @@ Sometimes we have a range of accommodation options - Cheap Billies and Posh Bill
 {{< div-row >}}
 
 {{< div-card-width-6 "What do they include">}}
-Generally its just accommodation. Sometimes food (or an option for that) - depends on the resort and accommodation.
+Generally its just accommodation & sometimes food (or an option for that) - depends on the resort and accommodation.
 
-You have to organize travel / transfers (though we sometimes arrange shared transfers) insurance and lift pass etc. There is plenty of help and advice though.
+You have to organize travel / transfers (though we sometimes arrange shared transfers) insurance and lift pass etc. 
+
+There is plenty of help and advice available, though you still have to pack your own bags.
 {{< /div-card-width-6 >}}
 
 {{< div-card-width-6 "Is this just for snowboarders?">}}
-Most of us are snowboarders, its just the way the group has grown. Its open to everyone though, there are some skiers and some of us swing both ways too.
+Most of us are snowboarders, its just the way the group has grown. 
+
+Its open to everyone though, there are some skiers and some of us swing both ways too.
 
 If you've got snow blades we can help you with that too. Might hurt a bit though...
 {{< /div-card-width-6 >}}
