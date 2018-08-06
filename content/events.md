@@ -43,12 +43,16 @@ There are a lot of first timers on each trip. In 2018 we had 73 people and only 
 
 For people who don't know many others we suggest bunches of people who might like to ride together - similar skills and interests. There are no silly games involved (Hi Di Hi!) and of course you're not limited or forced to stay with those folks but it does give everyone a good start.
 
-There are no cliques and nearly everyone is friendly and welcoming. We put you in accommodation with same sex and similar age groups.
+There are no cliques and everyone is friendly and welcoming. We put you in accommodation with same sex and similar age groups.
 
 There is plenty of chance to get to know people before hand either on-online or at one of the dome meetups and there are always people to ride with at your riding level and style.
 
 Its how Billy Snow Mates started after all - take the plunge!
 {{< /div-card-width-6 >}}
+
+{{< /div-row >}}
+
+{{< div-row >}}
 
 {{< div-card-width-6 "Mark Broxton">}}
 
@@ -63,9 +67,9 @@ Its how Billy Snow Mates started after all - take the plunge!
 
 {{< div-card-width-6 "Skill Level & Interest">}}
 
-* Not a park-rat? No problem - some people like to cruise.
-* Like your beer? No problem - some people use their ski/snowboard to commute from one bar to the next, just warming up for the Apres.
-* Like to charge from first lift to last - yup we've got that covered too.
+**Not a park-rat?** No problem - some people like to cruise.
+**Like your beer?** No problem - some people use their ski/snowboard to commute from one bar to the next, just warming up for the Apres.
+**Like to charge from first lift to last** - yup we've got that covered too.
 {{< /div-card-width-6 >}}
 
 {{< div-card-width-6 "Can't afford it or don't link cheap and cheerful">}}
@@ -85,7 +89,7 @@ You have to organize travel / transfers (though we sometimes arrange shared tran
 {{< div-card-width-6 "Is this just for snowboarders?">}}
 Most of us are snowboarders, its just the way the group has grown. Its open to everyone though, there are some skiers and some of us swing both ways too.
 
-If you've got snow blades we can help you with that too. Might hurt a bit though.
+If you've got snow blades we can help you with that too. Might hurt a bit though...
 {{< /div-card-width-6 >}}
 
 {{< /div-row >}}
