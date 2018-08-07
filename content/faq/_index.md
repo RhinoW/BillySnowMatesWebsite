@@ -16,6 +16,7 @@ So you’ve got a question? Great! But first please take a few minutes as it’s
 
 {{< div-row >}}    
     {{< div-card-width-6 "Technique">}}
+* [Piste Etiquette](/faq/piste-etiquette)
 * [Riding in bad visibility](/faq/bad-visibility)
     {{< /div-card-width-6 >}}
     {{< div-card-width-6 "Equipment">}}

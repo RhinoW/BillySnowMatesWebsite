@@ -5,3 +5,6 @@ draft: false
 ---
 
 TODO
+
+<br>
+**<p class="text-center">See the other [Frequently Asked Questions (FAQs)](/faq/)</p>**

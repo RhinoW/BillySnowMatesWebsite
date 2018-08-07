@@ -3,7 +3,6 @@ title: "FAQ - Snowboard Boots"
 date: 2018-07-13T01:00:43+01:00
 draft: false
 author: Daniel Petford
-authorUrl: https://www.facebook.com/daniel.petford.3
 ---
 
 ## Basics
@@ -88,3 +87,5 @@ https://youtu.be/GmAghXK5Ndc
 
 https://youtu.be/TVC_0wiJlu0
 
+<br>
+**<p class="text-center">See the other [Frequently Asked Questions (FAQs)](/faq/)</p>**

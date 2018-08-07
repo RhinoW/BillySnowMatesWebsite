@@ -47,3 +47,6 @@ Sunny (Bluebird) days are fantastic - but mountains come with weather and someti
 - Pairs or a group - keep tight group as just like with the trees seeing where each other is will help you orientate. Best skiers at front and back (but don’t bash into each other!). Regular stops to regroup.
 - Think about something different to what you normally do to have fun on the slopes :-
  - Maybe find or build a little feature to throw yourself off into the fluffy powder. You can mark with pine needles or other bits of mountain fluff so you can see it.
+
+<br>
+**<p class="text-center">See the other [Frequently Asked Questions (FAQs)](/faq/)</p>**

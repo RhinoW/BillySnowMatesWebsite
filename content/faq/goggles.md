@@ -71,3 +71,6 @@ However, they are more expensive and if you’re really blind you may need to ta
 [YouTube - Whitelines - How to choose your goggles](https://www.youtube.com/watch?v=aUd-UaBHXkQ)
 
 [Maverix Snow - Top Tips to avoid goggle issues](https://medium.com/@maverixsnow/top-tips-to-avoid-goggle-issues-whilst-snowboarding-preview-543ed2ce4b41)
+
+<br>
+**<p class="text-center">See the other [Frequently Asked Questions (FAQs)](/faq/)</p>**
