@@ -6,8 +6,12 @@ draft: false
 <style>
     label {width:20px;}
     input {width:300px;}
+    .hidden {display:none;}
 </style>
 <form name="contact" method="POST" netlify>
+  <p class="hidden">
+    <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
+  </p>
   <p>
     <label>Name: <input type="text" name="name" /></label>   
   </p>
