@@ -11,15 +11,14 @@ The FIS (Fédération Internationale de Ski) state the following 10 basic rules,
 
     _Everyone on the mountain has a right to be there, treat everyone with the same respect. Everyone was a beginner at some stage._
 
-2. Ride in a controlled manner and at a speed that is appropriate for your ability and the conditions (weather, terrain, traffic).
-Easy runs are allocated that for a reason, these WILL have slow unpredictable skiers and snowboarders on them, racing past them because you can is likely to unnerve them and cause an accident.
+2. Ride in a controlled manner and at a speed that is appropriate for your ability and the conditions (weather, terrain, traffic). Easy runs are allocated that for a reason, these WILL have slow unpredictable skiers and snowboarders on them, racing past them because you can is likely to unnerve them and cause an accident.
 
     _The same as driving a car, the onus is on the skier / Snowboarder behind to leave enough space between them and other users on the hill.
 Give way to those in front of you, or those merging onto the slope below, you have full visibility, they have a massive blind spot._
 
-4. When overtaking, leave plenty of space for the person in front. If there is a crash, it is the person at the back who is at fault, irrespective of the other party's actions. To help avoid a collision, shouting "on your left" or "on your right" to indicate your path of travel can help, but don't expect the other person to be fluent in English.
+3. When overtaking, leave plenty of space for the person in front. If there is a crash, it is the person at the back who is at fault, irrespective of the other party's actions. To help avoid a collision, shouting "on your left" or "on your right" to indicate your path of travel can help, but don't expect the other person to be fluent in English.
 
-    _Don’t ASSUME the direction and speed of the person in front, this can change in an instant, just the sound of you approaching can panic a beginner, or those engrossed in their own word listening to music can be oblivious of their surroundings. Don’t assume by shouting, that they have actually heard you !_
+    _Don’t ASSUME the direction and speed of the person in front, this can change in an instant, just the sound of you approaching can panic a beginner, or those engrossed in their own word listening to music can be oblivious of their surroundings. Don’t assume by shouting, that they have actually heard you!_
 
 5. If you are merging on to another run, starting after stopping or travelling upwards; look up and down the slope before moving and take appropriate action to avoid a collision.
 
@@ -35,7 +34,7 @@ Give way to those in front of you, or those merging onto the slope below, you ha
 
 7. If you are climbing up the slope, do it at the side - out of the way of oncoming traffic.
 
-    _Only walk back up hill if its absolutely necessary. Consider lapping the area again if you have dropped something, or if separated from friends wait in a safe place and call them._
+    _Only walk back up hill if it's absolutely necessary. Consider lapping the area again if you have dropped something, or if separated from friends wait in a safe place and call them._
 
 8. Pay attention to and respect signs, piste markings and out-of-bounds fencing. 
 
@@ -43,7 +42,7 @@ Give way to those in front of you, or those merging onto the slope below, you ha
 
 9. If there is a crash or accident – make sure to go and offer assistance, everyone using the hill is duty bound to help.
 
-    _Regardless of why someone has fallen, always stop and ask them if they are okay. Where it is safe to do so help others by retrieving poles, skis, items of clothing etc. _
+    _Regardless of why someone has fallen, always stop and ask them if they are okay. Where it is safe to do so help others by retrieving poles, skis, items of clothing etc._
 
 10. Following an accident all parties (including witnesses) must exchange names and addresses.
 
