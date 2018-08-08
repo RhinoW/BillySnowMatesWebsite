@@ -18,7 +18,7 @@ We have regular meets at all the uk snow and dry slope venues as well as running
     </a>
 </div>
 
-We are a non-profit group that means that all our trips, events and merchandise are run at cost with no one getting a free space, not even the event host. We've also arranged [discounts](discounts/) with some commercial comapnies
+We are a non-profit group that means that all our trips, events and merchandise are run at cost with no one getting a free space, not even the event host. We've also arranged [discounts](discounts/) with some commercial companies
 
 > *"Everyone saves or no one saves"*
 
