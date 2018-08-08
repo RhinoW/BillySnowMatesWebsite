@@ -8,7 +8,7 @@ draft: false
     input {width:300px;}
     .hidden {display:none;}
 </style>
-<form name="contact" method="POST" netlify>
+<form name="contact" method="POST" netlify-honeypot="bot-field" netlify>
   <p class="hidden">
     <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
   </p>
