@@ -53,7 +53,7 @@ Obviously it only covers EU member states. Also obviously no one knows what will
 
 That being said you should also have this - some Travel Insurance companies insist on it as part of their T&C, some reduce or eliminate excesses if you have an EHIC. 
 
-** It’s free so get one now if you haven’t already. **
+**It’s free so get one now if you haven’t already.**
 
 [https://www.nhs.uk/using-the-nhs/healthcare-abroad/apply-for-a-free-ehic-european-health-insurance-card/](https://www.nhs.uk/using-the-nhs/healthcare-abroad/apply-for-a-free-ehic-european-health-insurance-card/)
 
@@ -74,7 +74,7 @@ First think about some of the common questions of what you might need that are k
 * Annual or Single trip? (Annual often only slightly more expensive than single trip)
 * Area - Europe / Worldwide (Worldwide inc **USA/Canada** are often much more expensive due to health care costs.  If you’re going for a annual one have you any other trips planned in the year, snowboarding or otherwise?)
 * Off Piste (with a guide or **without a guide - harder to get**)
-* Back country / ski-touring - if you're doing this you probably know, but in the Insurance company rules its often not cear when 'off piste' starts and back-country begins.
+* Back country / ski-touring - if you're doing this you probably know what you are doing, but in the Insurance company T&C's its often not clear when 'off piste' starts and back-country begins, e.g. where exactly in Europe is a ski-area boundary?
 * Park riding (often not called this, think about terms like Freestyle / Terrain Park / Boarder Cross / Jumps)
 * What about other trips and holidays and activities you might do? Spot of Heli Sking? That bungee jump in Tignes? Mountain Biking? Golf? (GET OUT!)
 * How many days winter sports holiday are you going to be taking (work out both the longest single trip and the total number of days) and see _“What about Long Stays?”_
@@ -120,13 +120,13 @@ For annual policies
 
 It can’t be a surprise that this is a key restriction - the more days you spend on the snow the more likely you are to break yourself and therefore the higher the cost. 
 
-_"Oh I'll just tell em I only flew out a few days ago, how will they know?"_ you say. It won't work. For anything but a trivial claim they will ask for proof (e.g. travel receipts for out and return).
+_"Oh I'll just tell em I only flew out a few days ago, how will they know?"_ you say. It won't work. For anything but a trivial claim they will ask for proof (e.g.  receipts for out and return travel).
 
 If you're staying or working an entire season search for "Seasonaires insurance" and beware some policies will be invalidated if you're working abroard, esp if you're working 'on the mountain'. Your employer should be able to advise.
 
 ## Helmets, Booze and Jerry of the Day
 
-All Insurance companies will refuse to pay out of you've been reckless. Exactly what constitutes reckless is a grey area but if you start hucking avi barriers above closed pistes after a heavy session at the Folie Douche then they will probably throw that word at you.
+All Insurance companies will refuse to pay out if you've been reckless. Exactly what constitutes reckless is a grey area but if you start hucking avi barriers above closed pistes after a heavy session at the Folie Douche then that word might apply.
 
 Some companies are starting to mandate the use of helmets. If you prefer to slide naked then check the T&C's.
 
@@ -169,7 +169,7 @@ When I am snowboarding I have in my lift pass pocket (which only has these thing
 
 * Lift Pass (obviously!)
 * Credit Card (see above)
-* Small bit of paper with details of my Insurance Company (emergency telephone number + policy number), next of kin, EHIC number etc. Don’t print on an inkjet or write in felt tip like an 8 yr old as will be unreadable if it gets wet.
+* Small bit of paper with details of my Insurance Company (emergency telephone number + policy number), next of kin, EHIC number etc. Don’t print on an inkjet or write in felt tip like an 8 yr old as it will be unreadable if it gets wet.
 
 Sure you can keep all these details on your phone but paper doesn’t get broken or run out of juice. Paper rocks!
 
