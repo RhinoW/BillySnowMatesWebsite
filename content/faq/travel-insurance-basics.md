@@ -29,7 +29,7 @@ _In part II (if I get around to it) I will list a few insurance companies that p
 
 ## What is Insurance for?
 
-Don’t laugh, it's misunderstood... Insurance is intended to help cover financial loss arising from unforeseen circumstances.
+Don’t laugh, it's often misunderstood... Insurance is intended to help cover financial loss arising from unforeseen circumstances.
 
 _(Unforeseen is a key part here - hence the importance of having it in place early see “When do I buy” and disclosing pre-existing health conditions)._
 
@@ -39,17 +39,17 @@ Everyone's definition of ‘catastrophic’ is different but in travel insurance
 
 Less useful are things like gear being stolen (which if you look at the T&C of _most_ insurance has to be stolen off your feet whilst you’re riding to be covered). 
 
-Almost totally useless IMHO are things like Piste Closure which cover you a small daily allowance to travel to an alternative area if every lift is closed (assuming you’re resort is at the min height level and your trip inside the dates covered). Ask yourself under what conditions would an entire areas lifts be closed yet you can still reasonably travel to a close unaffected area? Apart from a few occasions in 2018 / 2019 I can’t ever remember an entire area being closed (I’ve seen one open just ½ a lift for example when the weather was utterly brutal) and even in those snowmageddon years it's not like you’re going to jump in a bus (if its even running) and battle for hours through 1m snowdrifts to go somewhere else. 
+Almost totally useless IMHO are things like Piste Closure which cover you a small daily allowance to travel to an alternative area if every lift is closed (assuming the resort is at the min height level and your trip inside the dates covered). Ask yourself under what conditions would an entire areas lifts be closed yet you can still reasonably travel to a close unaffected area? Apart from a few occasions in 2018 / 2019 I can’t ever remember an entire area being closed (I’ve seen one open just ½ a lift for example when the weather was utterly brutal) and even in those snowmageddon years it's not like you’re going to jump in a bus, if its even running, and battle for hours through 1m snowdrifts to go somewhere else. 
 
-I am not saying that you discount any insurance policies with these ‘features’ or they can never be claimed on - just make sure you concentrate on what's more important, and that's the big losses.
+I am not saying that you discount any insurance policies with these ‘features’ or they can never be claimed on - just make sure you **concentrate on what's more important, and that's making sure you're covered for medical expenses for the activities you will be doing.**
 
 ## What about EHIC?
 
 European Health Insurance Card (used to be called E111) gives you access to emergency healthcare under the same terms as the locals - which is not necessarily free. 
 
-It doesn’t cover private clinics (which are common in ski areas, a ready supply of customers you see) or other things like rescue / repatriation / theft / loss / curtailment / cancellation so **it isn’t a replacement for Travel Insurance**. 
-
 Obviously it only covers EU member states. Also obviously no one knows what will happen after Brexit.
+
+It doesn’t cover private clinics (which are common in ski areas which have a ready supply of patients you see) or other things like rescue / repatriation / theft / loss / curtailment / cancellation so **it isn’t a replacement for Travel Insurance**. 
 
 That being said you should also have this - some Travel Insurance companies insist on it as part of their T&C, some reduce or eliminate excesses if you have an EHIC. 
 
@@ -59,7 +59,7 @@ That being said you should also have this - some Travel Insurance companies insi
 
 ## What about Carre Niege?
 
-Carre Niege is an extra Insurance in France that is offered with the lift pass sales or online for a fairly modest €3 a day (or the annual Carte Niege). 
+Carre Niege is an extra Insurance in France that is offered with a lift pass or online for a fairly modest €3 a day (or the annual Carte Niege). 
 
 **It isn’t a replacement for full Travel Insurance** as it doesn’t cover things like supplier failure / theft / repatriation. Its main benefit is that it covers the blood wagons down from the slopes and ambulances to clinics without any upfront payment.
 
@@ -75,11 +75,11 @@ First think about some of the common questions of what you might need that are k
 * Area - Europe / Worldwide (Worldwide inc **USA/Canada** are often much more expensive due to health care costs.  If you’re going for a annual one have you any other trips planned in the year, snowboarding or otherwise?)
 * Off Piste (with a guide or **without a guide - harder to get**)
 * Back country / ski-touring - if you're doing this you probably know what you are doing, but in the Insurance company T&C's its often not clear when 'off piste' starts and back-country begins, e.g. where exactly in Europe is a ski-area boundary?
-* Park riding (often not called this, think about terms like Freestyle / Terrain Park / Boarder Cross / Jumps)
-* What about other trips and holidays and activities you might do? Spot of Heli Sking? That bungee jump in Tignes? Mountain Biking? Golf? (GET OUT!)
+* Park riding (often not called this, think about terms like Freestyle / Terrain Park / Boarder Cross / Jumps / Fun Park)
+* What about other trips and holidays and activities you might do? Spot of Heli Sking? Bungee Jump? Mountain Biking? Golf? (GET OUT!)
 * How many days winter sports holiday are you going to be taking (work out both the longest single trip and the total number of days) and see _“What about Long Stays?”_
-* Supplier Failure - how important is this for you as many don’t cover this. (Also ABTA / ATOL only covers package holidays)
-Cancellation / Missed Departure & Delays (like problems at the airport) / Curtailment (having to cut short)
+* Supplier Failure - how important is this for you as many don’t cover this. ABTA / ATOL only covers package holidays so if its an independant trip.
+* Cancellation / Missed Departure & Delays (like problems at the airport) / Curtailment (having to cut short)
 
 Now you know what you want get on a PC.
 
@@ -120,13 +120,13 @@ For annual policies
 
 It can’t be a surprise that this is a key restriction - the more days you spend on the snow the more likely you are to break yourself and therefore the higher the cost. 
 
-_"Oh I'll just tell em I only flew out a few days ago, how will they know?"_ you say. It won't work. For anything but a trivial claim they will ask for proof (e.g.  receipts for out and return travel).
+_"Oh I'll just tell em I only flew out a few days ago, how will they know?"_ It won't work. For anything but a trivial claim they will ask for proof (e.g.  receipts for out and return travel).
 
 If you're staying or working an entire season search for "Seasonaires insurance" and beware some policies will be invalidated if you're working abroard, esp if you're working 'on the mountain'. Your employer should be able to advise.
 
 ## Helmets, Booze and Jerry of the Day
 
-All Insurance companies will refuse to pay out if you've been reckless. Exactly what constitutes reckless is a grey area but if you start hucking avi barriers above closed pistes after a heavy session at the Folie Douche then that word might apply.
+All Insurance companies will refuse to pay out if you've been reckless. Exactly what constitutes reckless is a grey area but if you start hucking backflips off avi barriers above a closed piste after a heavy session at the Folie Douche then that word might apply.
 
 Some companies are starting to mandate the use of helmets. If you prefer to slide naked then check the T&C's.
 
