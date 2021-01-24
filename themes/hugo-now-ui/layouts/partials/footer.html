@@ -1,18 +1,30 @@
 <footer class="footer" data-background-color="black">
   <div class="container">
-    <nav>
-	    <ul>
-	    {{ range .Site.Menus.footer }}
-        <li>
-          <a href="{{ .URL | relURL }}"{{ if hasPrefix .URL "http" }}target="_blank"{{ end }}>{{ .Pre }} {{ .Name }}</a>
-        </li>
-      {{ end }}
-      </ul>
-    </nav>
 
-    <div class="container text-right">
-        <em>&copy; {{ now.Format "2006" }} Billy Snow Mates</em>
+    <div class="row">
+    
+      <nav>
+        <ul>
+          {{ range .Site.Menus.footer }}
+          <li>
+            <a href="{{ .URL | relURL }}" {{ if hasPrefix .URL "http" }}target="_blank" {{ end }}>{{ .Pre }} {{ .Name }}</a>
+          </li>
+          {{ end }}
+        </ul>
+      </nav>
+    
     </div>
+    
+    <div class="row mt-2 mb-2">
+      <div class="col small">
+        <em><a href="https://www.ryanwheeler.co.uk/" class="text-secondary">Website by - Rhino</a></em>
+      </div>
+      <div class="col text-right small text-secondary">
+        <em>&copy; {{ now.Format "2006" }} Billy Snow Mates</em>
+      </div>
+    
+    </div>
+
   </div>  
 </footer>
 
