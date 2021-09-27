@@ -12,11 +12,11 @@ BSM is a non-profit club run by members and an admin team who do it for the love
 
 The impersonal nature of ‘the internet’ brings out the worst in all of us at times (some people more than others) so we have a few rules that have evolved over time to try and keep BSM a **friendly & welcoming group.**
 
-These rules may seem a bit draconian to some but without them and nearly 5k members things can quickly spiral out of hand. They were not dreamt up in an evil lair - they were agonised over by a dozen people trying to do their best. 
+These rules may seem a bit draconian to some but without them and over 10k members things can quickly spiral out of hand. They were not dreamt up in an evil lair - they were agonised over by a dozen people trying to do their best. 
 
 No one wants to police everything - **we do the bare minimum that we feel is necessary.**
 
-We also took a decision a long time ago to keep commercial posts and advertisements (and other annoying stuff like share competitions) out otherwise it just quickly becomes one long advert and leaves little room to talk about waxing, again. ;)
+We also took a decision a long time ago to keep commercial posts and advertisements out (and other annoying stuff like share competitions) otherwise it just quickly becomes one long advert and leaves little room to talk about waxing, again. ;)
 
 *If you want to sell into this club then we want to save the members a little bit of money via a discount, is that so bad? Read here for [more on what you can do as a commercial operator.](/rules/)*
 
