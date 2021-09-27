@@ -9,10 +9,12 @@ We are a non-profit group that means that all our trips, events and merchandise 
 
 *“Everyone saves or no one saves”*    
 
+- Snow related posts only, no political posts
 - No Advertising
 - No Spammers
 - No Competition Posts
 - No Charity Advertising
+- No Hate speech or bullying
 - No Weirdos
 - No Trolls/Dickheads
 

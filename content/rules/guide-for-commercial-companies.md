@@ -34,7 +34,9 @@ Yes they can.
 
 ## I’ve provided a discount code so I can post adverts now right?
 
-Sorry, **No**. You’re listed on the discount page which is available and promoted to all members and other members will often recommend the companies they like and use.
+If you're a discount partner you will be listed on the discount page which is available and promoted to all members and other members will often recommend the companies they like and use.
+
+**In addition you can put up one Advertisment post a month.**
 
 ## But XXX does YYY why can’t I?
 
@@ -79,4 +81,4 @@ Depends - do you personally know them? If so YES. If not then **NO** - what are 
 
 - Bob posts a question asking about *“Which boots should I get for my 7 toed feet?”*
     - You reply with *“Come visit our store, we’ve got lots of boots”*. **NOT OK** - it's not helpful, we know you’ve got boots!
-    - You reply with *“Boots are a very personal fit what works for one doesn't work for someone else - you really need to visit a store and actually try them on with help from a boot tech, if you're in the AREA come visit”*. **OK** - it's helpful.
+    - You reply with *“Boots are a very personal fit what works for one doesn't work for someone else - you really need to visit a store and actually try them on with help from a boot tech, if you're in MY_AREA come visit”*. **OK** - it's helpful.
