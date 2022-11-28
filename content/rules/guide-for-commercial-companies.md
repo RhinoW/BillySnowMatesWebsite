@@ -36,7 +36,7 @@ Yes they can.
 
 If you're a discount partner you will be listed on the discount page which is available and promoted to all members and other members will often recommend the companies they like and use.
 
-**In addition you can put up one Advertisment post a month.**
+**In addition you can put up one Advertisment post a month** from either your personal or a company page. (Before or when joining as a company page put in a note that you are a discount partner, we work hard to keep out t-shirt sellers and spam bots so reject pretty much every non-personal account, if this happens by mistake get in touch.)
 
 ## But XXX does YYY why can’t I?
 
