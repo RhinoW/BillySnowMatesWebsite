@@ -6,7 +6,7 @@ https://www.facebook.com/groups/Billysnowmates/
 
 ## Run HUGO Dev
 
-START hugo server -D
+hugo server -D
 
 ## To deploy
 
