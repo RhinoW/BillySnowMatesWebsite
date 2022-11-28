@@ -3,6 +3,9 @@ languageCode = "en-us"
 title = "Billy Snow Mates"
 theme = "hugo-now-ui"
 
+[markup.goldmark.renderer]
+unsafe= true
+
 [params]
     # TODO - is description used in this?
     description = "Never Ride Alone!"
