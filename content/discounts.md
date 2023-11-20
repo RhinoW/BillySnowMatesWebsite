@@ -20,58 +20,47 @@ If you would like to offer a discount to the Billy Snow Mate members please use 
 
 ### Retail
 
-  - [**Absolute-Snow.co.uk** - UK based independent snow, rock & outdoor shop run by gear nerds.](https://www.absolute-snow.co.uk/)
-
-  - [**Snow + Rock** - Huge range of Ski, Snow and Climbing Clothing & Equipment from the world's best brands. Shop the latest Outdoor Clothing and Accessories with click and collect to one of our nationwide stores.](https://www.snowandrock.com/)
-
-  - [**Cycle Surgery** - a specialist bike shop stocking the world’s best brands. Shop road bikes, mountain bikes, folding bikes, and urban bikes, as well as cycling clothing, components, electronics and accessories. Free Delivery, Click & Collect, Price Match, Finance & Insurance all available.](https://www.cyclesurgery.com/)
-
-  - [**Cotswold Outdoor** - Find the best range of Outdoor Clothing and Footwear, Climbing, Camping Equipment and more. Price Match Promise guaranteed. ](https://www.cotswoldoutdoor.com/)
+  - [**Absolute-Snow.co.uk** - UK based independent snow, rock & outdoor shop run by gear nerds.](https://www.absolute-snow.co.uk/)  
 
   - [**RxSport.co.uk** - As prescription eye-wear specialists, our team of opticians and sports mad staff, with real first hand experience can find the perfect solution for you, both on and off the snow.](https://www.rxsport.co.uk/)
 
-  - [**Devine Ride** - independent, family run, Ski, Snowboard, Skateboard and Watersports bricks and mortar shop, 8 miles from Birmingham, Halesowen, West Midlands just of junction 3 off the M5.](https://www.devineride.co.uk/)
-
   - [**Summit** - The UK’s Specialist in Frameless and Magnetic Lens Change Snow Goggles!](https://www.summitworldwide.eu/)
 
-  - [**Bro!** - Founded on the core principals of having fun and riding with your buddies – bro! clothing offers a unique selection of soft goods for all your action sports needs.](http://www.brocerystore.com/)
-
-  - [**LoveInc** - Snowboard Apparel, Boards & Camps for snowboarders, by snowboarders.](https://www.loveincsnowboardcompany.com/)
+  - [**Bro!** - Founded on the core principals of having fun and riding with your buddies – bro! clothing offers a unique selection of soft goods for all your action sports needs.](https://www.brocerystore.com/)
 
   - [**ATB Shop** - Selling snowboards mountainboards wakeboards kitesurf boards and kites. Also selling skateboards Longboards and a huge range of stunt scooters. Along with an indoor skatepark in the shop next door.](https://www.atbshop.co.uk/)
 
-  - [**Sick and the Wrong** - Snowboard Experts - Part of Sick and Wrong are Rider Owned And Independent Since 1993!](http://snowboardexperts.co.uk/)
+  - [**Sick and the Wrong** - Snowboard Experts - Part of Sick and Wrong are Rider Owned And Independent Since 1993!](https://snowboardexperts.co.uk/)
 
   - [**AfterJam** - AfterJam is a UK engineered ski wear brand aimed at skiers and snowboarders alike.](https://www.afterjamsnow.com/)
 
-  - [**We Are Horizontal** - We Are Horizontal is built on the ethos that people should be #solaidback and enjoy the amazing opportunities around them.](https://www.wearehorizontal.co.uk/)
-
+  
 ### Tuition
 
-  - [**Maverix** - UK and European snowboarding lessons, coaching and training products to help riders look and feel great on snow. Snowboard classes and teaching occurs at Hemel Snow Centre, Snozone Xscape Milton Keynes. European holidays and camps take place in Mayrhofen, Austria and Les Deux Alpes, France.](http://www.maverix.org/)
+  - [**Maverix** - UK and European snowboarding lessons, coaching and training products to help riders look and feel great on snow. Snowboard classes and teaching occurs at Hemel Snow Centre, Snozone Xscape Milton Keynes. European holidays and camps take place in Mayrhofen, Austria and Les Deux Alpes, France.](https://www.maverix.org/)
 
-  - [**Henry's Avalanche Talk** - Henry’s Avalanche Talk (HAT) provides training and essential information for skiers who want to go off piste, but are held back by fear of the unknown.](http://www.henrysavalanchetalk.com/)
+  - [**Henry's Avalanche Talk** - Henry’s Avalanche Talk (HAT) provides training and essential information for skiers who want to go off piste, but are held back by fear of the unknown.](https://www.henrysavalanchetalk.com/)
 
   - [**Nonstop** - is the home of ski & snowboard instructor courses, improvement courses and backcountry adventures, delivered in handpicked mountain destinations across the world.](https://www.nonstopsnow.com/)
   
   - [**Real Snowboarding** - We are snowboard instructors based in Morzine / Avoriaz offering instruction and coaching to all ranges of abilities and ages.](https://realsnowboarding.co.uk/)
 
-  - [**Ninja Academy** - Unleash your snowboarding potential! Fun, progressive snowboard improvement package holidays in Canada & Europe](https://www.ninjaacademy.co.uk/)
-
   - [**Snowboard Addiction** - Learn how to snowboard with the world's best beginner to advanced snowboard tutorials.](https://snowboardaddiction.com/)
-
-  - [**Watch & Ride Virtual Snowboard School** - Learn and improve faster and at a fraction of the cost with Virtual Snowboard Lessons.](https://www.watchandride.com/)
 
   - [**Roped Up** - Book top winter sports professionals with the unique option to find others to split the cost.](https://www.ropedup.com/)
 
 ### UK Domes
 
-TODO
+- [**The Snow Centre (Hemel)** - Whether you’re a seasoned pro looking for a new freestyle park each week, just beginning your Snowsports journey or simply want to have a whizz down our brand new Ringo Slide, you’ll find it at The Snow Centre.](https://www.thesnowcentre.com/)
 
-### Servicing
-
-TODO
+- [**Chill Factore (Manchester)** - The UK’s longest real snow slope at Chill Factorᵉ is the perfect place to ski and snowboard all year round.](https://www.chillfactore.com)
 
 ### Travel
 
-TODO
+- [**Iglu Ski** - The largest ski travel agency in the UK. We pride ourselves on our first-hand expertise and the huge selection of ski holidays we have on offer. From catered chalets with transfers & flights to self-catered apartments and everything in between, we are confident we can find you your perfect ski holiday.](https://www.igluski.com/)
+
+- [**CoolBus** - Cool Bus have been providing private airport transfers into the Tarentaise Valley since 2002. ](https://www.thecoolbus.co.uk)
+
+- [**SkiCover** - A dedicated insurance company that specialise in winter sports. ](https://www.skicover.com)
+
+- [**the HOFNAR experience** - HOFNAR has been running holidays in the Alps since 2008 and we now have two chalets in Morzine (one is limited to people in their 20s/30s, the other has no restrictions). Most of our guests are solo travellers, at least for the first time.](https://hofnar.com/)
