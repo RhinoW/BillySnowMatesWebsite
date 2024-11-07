@@ -10,9 +10,9 @@ We have secured a discounts with a range of companies covering retail, tuition, 
 
 If they are shared outside the Billy Snow Mates group they may be withdrawn by the companies and you will be removed from the group.
 
-[![BSM Discount Partners](/uploads/discount-banner.png)](https://www.facebook.com/notes/billy-snow-mates/discounts/10155945317500210/)
+[![BSM Discount Partners](/uploads/discount-banner.png)](https://www.facebook.com/groups/Billysnowmates/posts/10161784941750210)
 
-**[If you are a member you can access the discounts here](https://www.facebook.com/notes/billy-snow-mates/discounts/10155945317500210/)**
+**[If you are a member you can access the discounts here](https://www.facebook.com/groups/Billysnowmates/posts/10161784941750210)**
 
 If you would like to offer a discount to the Billy Snow Mate members please use the [contact us](/contact-us/) form.
 
