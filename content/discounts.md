@@ -10,7 +10,7 @@ We have secured a discounts with a range of companies covering retail, tuition, 
 
 If they are shared outside the Billy Snow Mates group they may be withdrawn by the companies and you will be removed from the group.
 
-[![BSM Discount Partners](/uploads/BillySnowMatesDiscounts-2-660x338.png)](https://www.facebook.com/notes/billy-snow-mates/discounts/10155945317500210/)
+[![BSM Discount Partners](/uploads/discount-banner.png)](https://www.facebook.com/notes/billy-snow-mates/discounts/10155945317500210/)
 
 **[If you are a member you can access the discounts here](https://www.facebook.com/notes/billy-snow-mates/discounts/10155945317500210/)**
 
@@ -24,16 +24,21 @@ If you would like to offer a discount to the Billy Snow Mate members please use 
 
   - [**RxSport.co.uk** - As prescription eye-wear specialists, our team of opticians and sports mad staff, with real first hand experience can find the perfect solution for you, both on and off the snow.](https://www.rxsport.co.uk/)
 
-  - [**Summit** - The UK’s Specialist in Frameless and Magnetic Lens Change Snow Goggles!](https://www.summitworldwide.eu/)
-
-  - [**Bro!** - Founded on the core principals of having fun and riding with your buddies – bro! clothing offers a unique selection of soft goods for all your action sports needs.](https://www.brocerystore.com/)
+  - [**Surface2AirSports** - S2AS is one of the UK’s leading boardsport's retailers specialising in snowboarding, kitesurfing and wakeboarding!](https://www.s2as.com/)
 
   - [**ATB Shop** - Selling snowboards mountainboards wakeboards kitesurf boards and kites. Also selling skateboards Longboards and a huge range of stunt scooters. Along with an indoor skatepark in the shop next door.](https://www.atbshop.co.uk/)
 
   - [**Sick and the Wrong** - Snowboard Experts - Part of Sick and Wrong are Rider Owned And Independent Since 1993!](https://snowboardexperts.co.uk/)
 
-  - [**AfterJam** - AfterJam is a UK engineered ski wear brand aimed at skiers and snowboarders alike.](https://www.afterjamsnow.com/)
+  - [**DOUK** - specialise in custom-built skis and snowboards tailored to your individual needs, ensuring a perfect fit and unmatched performance.](https://www.douksnow.com)
 
+  - [**Never Summer** - Discount on ex demo boards](https://neversummer.co.uk/products/sale/snowboard-sale/)
+
+  - [**Bro!** - Founded on the core principals of having fun and riding with your buddies – bro! clothing offers a unique selection of soft goods for all your action sports needs.](https://www.brocerystore.com/)
+
+  - [**OOSC** - aim to bring colour back to the mountains in a fun and sustainable way. Iconic for their retro inspired, head-turning ski suits](https://oosc-clothing.com/)
+
+  - [**Summit** - The UK’s Specialist in Frameless and Magnetic Lens Change Snow Goggles!](https://www.summitworldwide.eu/)
   
 ### Tuition
 
@@ -41,13 +46,9 @@ If you would like to offer a discount to the Billy Snow Mate members please use 
 
   - [**Henry's Avalanche Talk** - Henry’s Avalanche Talk (HAT) provides training and essential information for skiers who want to go off piste, but are held back by fear of the unknown.](https://www.henrysavalanchetalk.com/)
 
-  - [**Nonstop** - is the home of ski & snowboard instructor courses, improvement courses and backcountry adventures, delivered in handpicked mountain destinations across the world.](https://www.nonstopsnow.com/)
-  
-  - [**Real Snowboarding** - We are snowboard instructors based in Morzine / Avoriaz offering instruction and coaching to all ranges of abilities and ages.](https://realsnowboarding.co.uk/)
+  - [**Nonstop** - is the home of ski & snowboard instructor courses, improvement courses and backcountry adventures, delivered in handpicked mountain destinations across the world.](https://www.nonstopsnow.com/)  
 
   - [**Snowboard Addiction** - Learn how to snowboard with the world's best beginner to advanced snowboard tutorials.](https://snowboardaddiction.com/)
-
-  - [**Roped Up** - Book top winter sports professionals with the unique option to find others to split the cost.](https://www.ropedup.com/)
 
 ### UK Domes
 
@@ -64,3 +65,7 @@ If you would like to offer a discount to the Billy Snow Mate members please use 
 - [**SkiCover** - A dedicated insurance company that specialise in winter sports. ](https://www.skicover.com)
 
 - [**the HOFNAR experience** - HOFNAR has been running holidays in the Alps since 2008 and we now have two chalets in Morzine (one is limited to people in their 20s/30s, the other has no restrictions). Most of our guests are solo travellers, at least for the first time.](https://hofnar.com/)
+
+### Servicing
+
+- [**Piste Ski & Snowboard Repairs** - Birmingham based small independent business that supplies a quality ski and snowboard service.](http://www.pisteskiandsnowboard.co.uk)
