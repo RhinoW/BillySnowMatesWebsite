@@ -44,6 +44,8 @@ If you would like to offer a discount to the Billy Snow Mate members please use 
 
   - [**Maverix** - UK and European snowboarding lessons, coaching and training products to help riders look and feel great on snow. Snowboard classes and teaching occurs at Hemel Snow Centre, Snozone Xscape Milton Keynes. European holidays and camps take place in Mayrhofen, Austria and Les Deux Alpes, France.](https://www.maverix.org/)
 
+  - [**White Flight Freestyle** - Dave Chapman has 15 years of experience teaching freestyle. Now based at Chill Factore, Manchester he offers full-day freestyle camps, weekly sessions and private lessons for juniors and adults.](https://www.whiteflightfreestyle.com/)
+
   - [**Henry's Avalanche Talk** - Henry’s Avalanche Talk (HAT) provides training and essential information for skiers who want to go off piste, but are held back by fear of the unknown.](https://www.henrysavalanchetalk.com/)
 
   - [**Nonstop** - is the home of ski & snowboard instructor courses, improvement courses and backcountry adventures, delivered in handpicked mountain destinations across the world.](https://www.nonstopsnow.com/)  
